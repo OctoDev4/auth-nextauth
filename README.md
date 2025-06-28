@@ -1,3 +1,23 @@
+🔐 Autenticação com Google usando NextAuth (v5 Beta)
+Este projeto utiliza o NextAuth v5 (beta) para implementar autenticação OAuth2 com a conta do Google. Ele aproveita a nova arquitetura modular do NextAuth para oferecer integração flexível e moderna com provedores de identidade.
+
+✅ Recursos:
+Login com Google via OAuth 2.0
+
+
+Tipagem em TypeScript
+
+Fluxo de autenticação simplificado com os novos handlers do NextAuth 5
+
+🔧 Tecnologias:
+next-auth@beta
+
+TypeScript
+
+Next.js 14+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
